@@ -1,0 +1,15 @@
+{
+  "name": "AquilaChatBot",
+  "version": "0.0.0",
+  "description": "The chat bot powered by NLP for Aquila",
+  "main": "behavior/scripts/index.js",
+  "scripts": {
+    "start": "initai-dev-server"
+  },
+  "author": "<my-name> <<my-email-address>>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "initai-dev-server": "^0.4.8",
+    "initai-node": "~0.0.7"
+  }
+}
